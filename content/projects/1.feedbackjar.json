@@ -1,7 +1,7 @@
 {
-  "name": "Feedbackjar",
-  "url": "https://feedbackjar.app",
-  "description": "Open source feedback, roadmaps and changelogs",
+  "name": "FortunaMetrics",
+  "url": "https://fortunametrics.com",
+  "description": "A comprehensive analytical stock trading journal.",
   "thumbnail": "/projects/feedbackjar.png",
   "status": "WIP",
   "opensource": true
