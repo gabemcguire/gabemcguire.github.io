@@ -5,7 +5,7 @@ permalink: /projects/
 ---
 
 ## FortunaMetrics: Stock Trading Journal
-Accessable at [fortunametrics.com] (https://fortunametrics.com/)
+Accessable at [fortunametrics.com](https://fortunametrics.com/)
 - **Description**: A web application to track and analyze stock trades, built with Vue3, Tailwind CSS, and Django.
 - **Features**: 
   - Trade and execution logging
