@@ -23,7 +23,7 @@ I enjoy working with the following technologies and frameworks:
 
 ### FortunaMetrics
 
-I am the sole developer of FortunaMetrics, a stock trading journal aimed at providing a much better UI and being more affordable than existing solutions like TraderVue. The website features a dark theme and is built using Vue 3, Tailwind CSS, and Django. Key features include:
+I am the sole developer of FortunaMetrics, a stock trading journal aimed at providing unprecedented insights and analytics. 
 
 - Customizable trading metrics
 - Ability to view metrics over custom time ranges
