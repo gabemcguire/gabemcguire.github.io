@@ -5,38 +5,15 @@ layout: default
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Gabe McGuire's Portfolio</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
-            color: #333;
-            margin: 0;
-            padding: 0;
-        }
-        .container {
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 20px;
-            background-color: #fff;
-            box-shadow: 0 0 10px rgba(0,0,0,0.1);
-            border-radius: 1.0rem;
-        }
-        h1 {
-            font-size: 2em;
-            font-weight: bold;
-            margin-bottom: 10px;
-        }
-        p {
-            font-size: 1em;
-            line-height: 1.6;
-        }
-    </style>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
 </head>
-<body>
-    <div class="container">
-        <img src="https://avatars.githubusercontent.com/u/75680472?v=4" style="border-radius:50%; max-width:10rem;">
-        <h1>Hi!</h1>
-        <p>My name is Gabe McGuire.</p>
-        <p>I work for the Michigan Department of Technology, Management, and Budget as a part-time developer. Additionally, I am a computer science student At Michigan State University. <br><br> In my free time I love to tinker and work on plenty of projects. My primary focus as of late is on fullstack development. However, I am fond of all types of development, including frontend, backend, mobile and game development.</p>
+<body class="bg-gray-100 text-gray-800">
+    <div class="max-w-2xl mx-auto p-6 bg-white shadow-lg rounded-lg mt-10">
+        <div class="flex flex-col items-center">
+            <img src="https://avatars.githubusercontent.com/u/75680472?v=4" class="rounded-full w-32 h-32 mb-4">
+            <h1 class="text-3xl font-bold mb-4">Hi!</h1>
+            <p class="text-lg mb-4">My name is Gabe McGuire.</p>
+            <p class="text-lg text-center">I work for the Michigan Department of Technology, Management, and Budget as a part-time developer. Additionally, I am a computer science student at Michigan State University. <br><br> In my free time, I love to tinker and work on various projects. My primary focus as of late is on full-stack development. However, I am fond of all types of development, including frontend, backend, mobile, and game development.</p>
+        </div>
     </div>
 </body>
