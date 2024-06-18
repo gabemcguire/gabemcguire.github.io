@@ -22,6 +22,11 @@ Accessable at [mcguire.bio](https://mcguire.bio)
     - Can help clarify class concepts and procedures
 - **Technologies**: Next.js, OpenAI's API, LangChain, PostgreSQL
 
+## Spike Dodge: Congressional App Challenge Entry  
+View a demo [https://www.youtube.com/watch?v=4sewPilo-0c](https://www.youtube.com/watch?v=4sewPilo-0c)
+- **Description** Crafted an intuitive and fun mobile game where players dodge spikes and collect coins across three lanes to achieve high scores. Developed with Lua on the Defold game engine for the 2019 Congressional App Challenge.
+- **Technologies**: Defold game engine 
+
 ## ReqRunner: Postman Alternative
 - **Description**: A desktop application for API testing, created with Rust and Tauri for the backend, and Vue for the frontend.
 - **Features**: 
