@@ -6,7 +6,7 @@ permalink: /about
 
 My name is Gabe McGuire. I am currently pursuing a degree in Computer Science at Michigan State University. Alongside my academic journey, I am also employed as a part-time developer for the State of Michigan's Department of Technology, Management, and Budget (DTMB).
 
-## ** My Journey **
+## **My Journey**
 
 My passion for technology and development began early, and over the years, I have honed my skills and expanded my knowledge base to include a diverse range of technologies and methodologies. 
 
