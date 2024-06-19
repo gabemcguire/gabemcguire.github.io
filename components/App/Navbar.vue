@@ -29,6 +29,9 @@
         </li>
         <li class="flex-1"></li>
         <li>
+          <UButton to="https://drive.google.com/file/d/1iG97yGm4H3lX2E6vgMSNF8Tj1KeTDfz0/view?usp=sharing" target="_blank" label="Resume" />
+        </li>
+        <li>
           <AppThemeToggle />
         </li>
       </ul>
@@ -53,10 +56,9 @@ const items = [
     path: "/articles",
     icon: "solar:document-add-outline",
   },
-  { name: "Lab", path: "/lab", icon: "heroicons:beaker" },
   {
-    name: "What's in my bag?",
-    path: "/whats-in-my-bag",
+    name: "Tools",
+    path: "/tools",
     icon: "solar:backpack-outline",
   },
   {

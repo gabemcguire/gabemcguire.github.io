@@ -13,9 +13,9 @@
 
 <script setup>
 const description =
-  "I’ve worked on tons of little projects over the years but these are the ones that I’m most proud of. Many of them are open-source, so if you see something that piques your interest, check out the code and contribute if you have ideas for how it can be improved.";
+  "I've worked on tons of projects using various languanges and technologies. over the years ranging from games to my most recent stock trading journal, FortunaMetrics. ";
 useSeoMeta({
-  title: "Projects | Fayaz Ahmed",
+  title: "Projects | Gabe McGuire",
   description,
 });
 

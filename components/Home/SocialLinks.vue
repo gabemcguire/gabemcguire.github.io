@@ -31,7 +31,7 @@ const links = [
   },
   {
     name: "GitHub",
-    url: "https://github.com/fayazara",
+    url: "https://github.com/gabemcguire",
     icon: "mdi:github",
   },
 ];

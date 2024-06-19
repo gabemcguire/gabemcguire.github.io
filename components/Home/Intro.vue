@@ -7,13 +7,10 @@
       Hello!
     </h1>
     <p class="text-gray-900 dark:text-gray-400">
-      Hi my name is Gabe McGuire. I am a computer science student and currently work as a developer for the State of Michigan. I enjoy all kinds of software development from front-end web development with Vue.js or React or backend programming with ppython. 
+      Hi, I'm Gabe McGuire, a computer science student and part-time developer for the State of Michigan. I thrive in all areas of software development, from front-end work with Vue.js or React to backend development using various languages and frameworks.
     </p>
     <p class="text-gray-900 dark:text-gray-400">
-      By day, I'm a Developer at
-      <a href="https://headshotpro.com" target="_blank" class="underline">Michigan DTMB</a>, and
-      by night (and weekends), I'm busy tinkering with some random tool or app
-      that I am building.
+       In my free time I love to dive into my own projects, always eager to learn and experiment with new technologies.
     </p>
   </div>
 </template>
